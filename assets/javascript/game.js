@@ -17,7 +17,7 @@ for (var i = 0; i < 9; i++) {
 
 
         if(userGuess != computerGuess){
-           losses-- && guessesleft--;
+           losses++ && guessesleft--;
         }else if (userGuess === computerGuess){
             wins++;
         }
