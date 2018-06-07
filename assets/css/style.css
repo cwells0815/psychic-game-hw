@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    font-size: 45px;
+}
+
+.container {
+    font-size: 18px;
+}
